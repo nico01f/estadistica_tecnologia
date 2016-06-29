@@ -1,0 +1,48 @@
+cat programacion.html |grep 23people |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep 4Talent |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep ACE Team |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Anchor |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep AQmarket |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Avalancha |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep BananaDesk |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Blue Aspects |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Blue Company |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Boosmap |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Case Surfer |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Classroomtv.com |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Dalepega |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Dsarhoya SpA |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep eClass |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep en |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Expan |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Fosubo |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Gatek |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Imagemaker |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Inpact S.A. |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep kunder |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Magnet |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep MyHotel SpA |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep NED |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Nursoft |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Oferus |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep OSA |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep PasajeBus.com |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Planet Expat |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Platanus |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep POC |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep PostCenter |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Puerto Montt |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Rancagua |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Rutapro |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Ssr |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep TCIT |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Tech-K |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Tekpro eCommerce 360° |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Toteat S.A. |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Upsocl |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Valparaíso |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Ventus Partner |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Waya |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep Webdox |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+cat programacion.html |grep ZBox |grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*" |grep .cl
+
