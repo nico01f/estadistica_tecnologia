@@ -2,4 +2,6 @@
 
 ##Technologies
 - Scrapy
-- And some other useful linux commands
+- And some other useful linux commands: 
+- `grep --only-matching --perl-regexp "http(s?):\/\/[^ \"\(\)\<\>]*"`
+- `cat`
