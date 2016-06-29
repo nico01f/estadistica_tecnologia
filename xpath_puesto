@@ -1,0 +1,13 @@
+*** Sueldo
+>>> response.xpath('//strong').re(r'\s*(.*)')
+[u'<strong>Ahora, cada vez que publicas o re-publicas un empleo, se abre un proceso de selecci\xf3n separado. </strong>', u'', u'<strong>debe ser desbloqueado separadamente. </strong>', u'', u'<strong>', u'$1,900', u'USD/mes', u'</strong>', u'', u'<strong>\xbfHas postulado ya en Get on Board?</strong>', u'', u'<strong>', u'Desarrollador Back End', u'</strong>', u'', u'<strong>', u'Back-End Dev en pr\xe1ctica', u'</strong>', u'', u'<strong>', u'Ingeniero de software', u'</strong>', u'', u'<strong>', u'Ingresa y postula a los mejores empleos digitales.', u'</strong>', u'']
+
+*** Nombre de empresa
+>>> response.xpath('//span').re(r'hiring\s*(.*)')
+[u'Organization">Exportadora Prize</span>']
+
+
+*** Tecnologia
+
+>>> response.xpath('//a').re(r'tag\s*(.*)')
+[u'/php">PHP</a>']
